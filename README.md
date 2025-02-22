@@ -18,7 +18,9 @@ This system implements real-time webcam tracker .Users selects ROI using Boundin
 install the dependencies
 
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Mahmoudkandiel/Tracking # clone
+cd Tracking
+pip install -r requirements.txt  # install
 ```
 
 ## Usage
@@ -42,13 +44,13 @@ This project consists of three main components:
 
 1- Ui Class(`ui.py`) :
 
-    - Responsible for User interface
-    - Handling Mouse and keyboard interactions
+- Responsible for User interface
+- Handling Mouse and keyboard interactions
 
 
 2-Main(`main.py`)
 
-    -used to Run the program
+-used to Run the program
 
 3-Tracker(`tracker.py`):
 
