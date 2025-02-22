@@ -19,7 +19,7 @@ install the dependencies
 
 ```bash
 git clone https://github.com/Mahmoudkandiel/Tracking # clone
-cd Tracking
+cd Tracking/src
 pip install -r requirements.txt  # install
 ```
 
