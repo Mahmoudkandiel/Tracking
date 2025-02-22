@@ -1,0 +1,9 @@
+TRACK_COLOR = (0, 255, 0)
+INIT_COLOR = (255, 0, 0)
+CANCEL_COLOR = (0, 0, 255)
+TEXT_COLOR = (0, 0, 0)
+TRACK_TEXT = "Tracking ON"
+INIT_TEXT = "Initialize Tracker"
+START_TEXT_1 = "Press Enter to start tracking"
+START_TEXT_2 = "Press 'q' to quit"
+START_TEXT_3 = "Press 'r' to reset"
